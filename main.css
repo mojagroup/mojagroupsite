@@ -6,8 +6,8 @@ body, html {
 .bgimg {
   background-position: center;
   background-size: cover;
-  background-image: url("back.jpg");
-  min-height: 75%;
+  background-image: url("BACKGROUND.jpg");
+  min-height: 100%;
 }
 .container {
     margin-right: auto;
